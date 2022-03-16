@@ -19,3 +19,5 @@ Vim Plug:
 sudo apt install nodejs 
 
 sudo apt install npm
+
+Transparency: CRTL + SHIFT + Scroll Up/Down
