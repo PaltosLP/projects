@@ -1,0 +1,26 @@
+
+Windows Terminal Settings:
+	- /mnt/c/Users/motat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState
+
+WSL Ubuntu Swapfile Location:
+	- /home/paltos/.local/share/nvim/swap
+
+Alias:
+	- alias c='clear'
+	- alias n='nvim'
+	- alias cdswap='cd /home/paltos/.local/share/nvim/swap'
+	- alias cdwsl='cd /mnt/c/Users/motat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState'
+
+Panes:
+	New Pane:
+		- verticaly   --> <ALT> + <SHIFT> + <d> 
+		- horizontaly --> <ALT> + <SHIFT> + <->
+
+	Switch Pane:
+		- <ALT> + <arrow_key>
+
+	Closing Pane:
+		- <CRTL> + <SHIFT> + <w>
+
+	Resizing Pane:
+		- <ALT> + <SHIFT> + <arrow_key>
