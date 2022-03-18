@@ -8,6 +8,7 @@ WSL Ubuntu Swapfile Location:
 Alias:
 	- alias c='clear'
 	- alias n='nvim'
+	- alias h='cd /home/paltos'
 	- alias cdswap='cd /home/paltos/.local/share/nvim/swap'
 	- alias cdwsl='cd /mnt/c/Users/motat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState'
 
