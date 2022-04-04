@@ -15,6 +15,7 @@ Alias:
 	- alias cdinit='/home/paltos/.config/nvim'
 	- alias gitpw='echo ______'
 	- alias gitpo='git push origin'
+	- alias cdpy='cd /home/paltos/files/python_files'
 
 Panes:
 	New Pane:
