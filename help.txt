@@ -14,6 +14,7 @@ Alias:
 	- alias cdwsl='cd /mnt/c/Users/motat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState'
 	- alias cdinit='/home/paltos/.config/nvim'
 	- alias gitpw='echo ______'
+	- alias gitpo='git push origin'
 
 Panes:
 	New Pane:
