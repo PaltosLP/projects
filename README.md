@@ -21,3 +21,7 @@ sudo apt install nodejs
 sudo apt install npm
 
 Transparency: CRTL + SHIFT + Scroll Up/Down
+
+packer:
+  git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
