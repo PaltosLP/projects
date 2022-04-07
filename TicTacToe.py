@@ -67,7 +67,7 @@ def game():
     game_done = win_cond(state, False)
     iswinner = False
     os.system('cls' if os.name == 'nt' else 'clear')
-    for i in range(9):
+    for i in range(10):
         board_1(state)
         win_cond(state, game_done)
         if gd:
