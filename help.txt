@@ -13,7 +13,7 @@ Alias:
 	- alias cdswap='cd /home/paltos/.local/share/nvim/swap'
 	- alias cdwsl='cd /mnt/c/Users/motat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState'
 	- alias cdinit='/home/paltos/.config/nvim'
-	- alias gitpw='echo ______'
+	- alias gitpw='cat ~/.pass_git | clip.exe'
 	- alias gitpo='git push origin'
 	- alias cdpy='cd /home/paltos/files/python_files'
 
