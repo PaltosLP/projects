@@ -17,6 +17,11 @@ Alias:
 	- alias gitpo='git push origin'
 	- alias cdpy='cd /home/paltos/files/python_files'
 
+		function gitpo(){
+	▏   gitpw;
+	▏   gitporigin;
+	}
+
 Panes:
 	New Pane:
 		- verticaly   --> <ALT> + <SHIFT> + <d> 
