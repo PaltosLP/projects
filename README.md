@@ -28,3 +28,6 @@ packer:
 
 Color Mixer:
   http://spectrumcolors.de/cor_rgb_demo.php
+
+MatPlotLib in WSL:
+  https://stackoverflow.com/questions/43397162/show-matplotlib-plots-and-other-gui-in-ubuntu-wsl1-wsl2
